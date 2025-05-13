@@ -50,7 +50,6 @@ With the increasing use of social media among students, it's essential to unders
 
 - SQL (MySQL / PostgreSQL / SQLite)
 - Data exploration through SQL queries
-- Optional: Tableau or Power BI for visualization
 
 ---
 
